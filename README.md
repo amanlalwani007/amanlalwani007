@@ -1,10 +1,10 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+
 
 # Hello, folks!
 
-My name is Aman lalwani and I'm a software developer. I'm from Agra, living in Noida and currently working at Innovaccer. You can find me on [![LinkedIn][3.2]][3] or [![Hackerrank][3.3]][4] or [![Leetcode][3.4]][5] .
+My name is Aman lalwani and I'm a software developer. I'm from Agra, living in Noida and currently working at Innovaccer. You can find me on [![LinkedIn][3.2]][3] or [![Hackerrank]][4] or [![Leetcode]][5] .
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

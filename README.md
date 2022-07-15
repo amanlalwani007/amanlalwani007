@@ -4,7 +4,7 @@
 
 # Hello, folks!
 
-My name is Aman lalwani and I'm a software developer. I'm from Agra, living in Noida and currently working at Innovaccer. You can find me on [LinkedIn][3] or [Hackerrank][4] or [Leetcode][5] .
+My name is Aman lalwani and I'm a software developer. I'm from Agra, living in Noida and currently working at Innovaccer. You can find me on [LinkedIn][3]/[Hackerrank][4]/[Leetcode][5] .
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
